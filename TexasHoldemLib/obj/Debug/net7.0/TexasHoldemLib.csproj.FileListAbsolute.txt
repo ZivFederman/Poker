@@ -1,0 +1,12 @@
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\bin\Debug\net7.0\TexasHoldemLib.deps.json
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\bin\Debug\net7.0\TexasHoldemLib.dll
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\bin\Debug\net7.0\TexasHoldemLib.pdb
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\TexasHoldemLib.csproj.AssemblyReference.cache
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\TexasHoldemLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\TexasHoldemLib.AssemblyInfoInputs.cache
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\TexasHoldemLib.AssemblyInfo.cs
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\TexasHoldemLib.csproj.CoreCompileInputs.cache
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\TexasHoldemLib.dll
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\refint\TexasHoldemLib.dll
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\TexasHoldemLib.pdb
+C:\Users\Ziv\source\repos\Poker\TexasHoldemLib\obj\Debug\net7.0\ref\TexasHoldemLib.dll
